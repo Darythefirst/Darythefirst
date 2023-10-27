@@ -2,7 +2,7 @@
 
 ### Меня зовут Дарья, я тестировщик ПО
 
-* Получила [диплом о высшем образовании]() по специальности "Финансы и кредит"
+* Получила [диплом о высшем образовании](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/diploma1.pdf) по специальности "Финансы и кредит"
 * Заинтересована в тестировании ПО для банковской сферы. Работала в банке и знаю сферу банковского обслуживания как снаружи, так и изнутри
 * Нравится находить баги и тем самым улучшать качество создаваемого продукта
 * Хочу развиваться в тестировании web-приложений, desktop-приложений, mobile-приложений
@@ -45,10 +45,10 @@
 * Автоматизация тестирования веб-сервиса приложения по организации путешествий - [дипломный проект](https://github.com/Darythefirst/Aqa.Diploma)
 
 #### Дипломы и сертификаты:
-* [Диплом о высшем образовании]() и [приложение к диплому]()
-* [Ручное тестирование]()
-* [Git]()
-* [Java для тестировщиков]()
-* [Автоматизированное тестирование]()
-* [Тестировщик ПО]()
+* [Диплом о высшем образовании](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/diploma1.pdf) и [приложение к диплому](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/application.pdf)
+* [Ручное тестирование](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/manual.pdf)
+* [Git](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/git.pdf)
+* [Java для тестировщиков](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/java.pdf)
+* [Автоматизированное тестирование](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/autotest.pdf)
+* [Тестировщик ПО](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/qa-certificate.pdf)
 * [Диплом о профессиональной переподготовке]()
