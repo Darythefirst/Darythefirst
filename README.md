@@ -51,4 +51,4 @@
 * [Java для тестировщиков](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/java.pdf)
 * [Автоматизированное тестирование](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/autotest.pdf)
 * [Тестировщик ПО](https://github.com/Darythefirst/Darythefirst/blob/main/Certificates/qa-certificate.pdf)
-* [Диплом о профессиональной переподготовке]()
+* [Диплом о профессиональной переподготовке]() и [приложение к нему]()
